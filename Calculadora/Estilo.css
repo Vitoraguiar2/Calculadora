@@ -1,0 +1,37 @@
+html, body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    overflow-x: hidden;
+}
+h1{
+    background-color: grey;
+    color: white;
+    padding-left: 10px;
+    margin-bottom: 0;
+}
+section{
+    border: 2px grey solid;
+    margin: 20;
+    padding: 5 10 5 10;
+    text-align: justify;
+    float:left;
+}
+.botao{
+    text-align: center;
+    width: 50%;
+    margin-top: 5px;
+    float: left;
+    position: relative;
+}
+button{
+    font-size: 15px;
+}
+.resposta{
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+    border: 2px grey solid;
+}
